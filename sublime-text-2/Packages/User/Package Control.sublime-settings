@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": 1329065086,
+	"installed_packages":
+	[
+		"HTML5",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Package Control",
+		"sublime-jslint"
+	]
+}

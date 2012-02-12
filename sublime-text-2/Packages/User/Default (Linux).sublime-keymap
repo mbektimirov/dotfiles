@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+y"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Snippet: "}},
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+tab"], "command": "prev_view_in_stack" },
+	{ "keys": ["ctrl+shift+tab"], "command": "next_view_in_stack" }
+]
